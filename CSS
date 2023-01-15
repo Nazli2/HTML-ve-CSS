@@ -1,0 +1,22 @@
+body{
+    background-image: url("img/indir.jpg");
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    width: 15%;
+    height: 20%;
+    margin: auto;
+    color: red;
+}
+i{
+    font-size: 20px;
+    color: black;
+}
+a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
